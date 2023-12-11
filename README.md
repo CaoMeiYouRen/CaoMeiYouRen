@@ -17,11 +17,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2023-12-11 如何优化 Docker 下 Node.js 项目的体积](https://blog.cmyr.ltd/archives/be640cee.html)
 - [2023-12-04 如何使用 TimeCat 实现轻量级网页录屏和播放](https://blog.cmyr.ltd/archives/6e855105.html)
 - [2023-11-26 如何使用 wechaty 创建属于自己的微信机器人](https://blog.cmyr.ltd/archives/eb20e5d9.html)
 - [2023-10-23 如何解决 Windows Server 2019 ping 不通问题](https://blog.cmyr.ltd/archives/cb933e30.html)
 - [2023-10-15 如何在 Spring Boot 2.7 和 3.0 中使用 Swagger](https://blog.cmyr.ltd/archives/5c0eb01b.html)
-- [2023-09-30 2023 原神音乐会观后感](https://blog.cmyr.ltd/archives/e09e35b2.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
