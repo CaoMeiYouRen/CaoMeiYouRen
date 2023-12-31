@@ -17,11 +17,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2023-12-31 草梅友仁的 2023 年度项目总结](https://blog.cmyr.ltd/archives/4a5799d3.html)
 - [2023-12-17 记一次 Golang 因镜像源配置导致的构建失败](https://blog.cmyr.ltd/archives/9a8bee73.html)
 - [2023-12-11 如何优化 Docker 下 Node.js 项目的体积](https://blog.cmyr.ltd/archives/be640cee.html)
 - [2023-12-04 如何使用 TimeCat 实现轻量级网页录屏和播放](https://blog.cmyr.ltd/archives/6e855105.html)
 - [2023-11-26 如何使用 wechaty 创建属于自己的微信机器人](https://blog.cmyr.ltd/archives/eb20e5d9.html)
-- [2023-10-23 如何解决 Windows Server 2019 ping 不通问题](https://blog.cmyr.ltd/archives/cb933e30.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
