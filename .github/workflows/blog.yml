@@ -82,7 +82,7 @@ jobs:
         uses: ad-m/github-push-action@master
         if: ${{ steps.commit-files.outputs.hasChange == 'true' }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           branch: ${{ github.ref }}
           directory: caomeiyouren.github.io
           repository: CaoMeiYouRen/caomeiyouren.github.io
