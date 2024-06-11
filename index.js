@@ -1,7 +1,7 @@
 'use strict';
 
-var fs = require('fs-extra');
-var Parser = require('rss-parser');
+const fs = require('fs-extra');
+const Parser = require('rss-parser');
 
 const rssParser = new Parser();
 async function start() {

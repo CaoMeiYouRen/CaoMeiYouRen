@@ -7,26 +7,36 @@ jobs:
   blog:
     name: Blog
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
-          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
         with:
-          node-version: "16"
-      - name: Get yarn cache directory path
-        id: yarn-cache-dir-path
-        run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
-      - uses: actions/cache@v3
-        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+          version: "latest"
+      - name: Setup Node.js@lts environment
+        uses: actions/setup-node@v4
         with:
-          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: ${{ runner.os }}-yarn-
-      - run: yarn
-      - run: npm run start
+          node-version: "lts/*"
+          cache: "pnpm"
+      - name: Cache Dependency
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.npm
+            ~/.yarn
+            ~/.cache/pnpm
+            ~/cache
+            !~/cache/exclude
+            **/node_modules
+          key: pnpm-${{ runner.os }}-${{ hashFiles('package.json') }}
+          restore-keys: pnpm-${{ runner.os }}
+      - run: pnpm i --frozen-lockfile
+      - run: pnpm run start
       - name: Commit files
         id: commit-files
         run: |
@@ -49,11 +59,13 @@ jobs:
     needs: blog
     name: Docs
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
-          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
       - name: Checkout docs
         uses: actions/checkout@v4
         with:
@@ -61,7 +73,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: caomeiyouren.github.io
           persist-credentials: false
-          fetch-depth: 0
       - name: Update docs
         run: |
           cp README.md ./caomeiyouren.github.io/README.md
