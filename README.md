@@ -1,6 +1,6 @@
 # Hello，大家好，我是草梅友仁，一名专注于前端开发的软件工程师，主攻领域包括 TypeScript、JavaScript 和 Vue
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FCaoMeiYouRen&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/CaoMeiYouRen)[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3043088413495815&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3043088413495815)[![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2FCaoMeiYouRen&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/CaoMeiYouRen)[![爱发电](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fafdian%2FCaoMeiYouRen&query=count&color=282c34&label=%E7%88%B1%E5%8F%91%E7%94%B5&labelColor=946ce6&suffix=+%E5%8F%91%E7%94%B5%E4%BA%BA%E6%AC%A1+%2F+%E6%9C%88&cacheSeconds=3600)](https://afdian.net/@CaoMeiYouRen)
+[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FCaoMeiYouRen&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/CaoMeiYouRen)[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3043088413495815&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3043088413495815)[![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2FCaoMeiYouRen&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/CaoMeiYouRen)[![爱发电](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fafdian%2FCaoMeiYouRen&query=count&color=282c34&label=%E7%88%B1%E5%8F%91%E7%94%B5&labelColor=946ce6&suffix=+%E5%8F%91%E7%94%B5%E4%BA%BA%E6%AC%A1+%2F+%E6%9C%88&cacheSeconds=3600)](https://afdian.com/@CaoMeiYouRen)
 
 欢迎通过以下平台阅读我的文章、观看视频和与本人联系。
 
@@ -18,7 +18,7 @@
 
 -   **简书**：[草梅友仁](https://www.jianshu.com/u/c111d2a51026) 在简书上，你可以阅读我的随笔和心得体会。
 
--   **爱发电**：[草梅友仁](https://afdian.net/a/CaoMeiYouRen) 可以通过爱发电平台支持我的创作。
+-   **爱发电**：[草梅友仁](https://afdian.com/a/CaoMeiYouRen) 可以通过爱发电平台支持我的创作。
 
 -   **公众号**：[草梅友仁的后花园](https://cdn.jsdelivr.net/gh/CaoMeiYouRen/image-hosting-01@master/images/202310242101484.png) 关注我的公众号「草梅友仁的后花园」，获取最新技术资讯和文章。
 
