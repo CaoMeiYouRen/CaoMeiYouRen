@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CaoMeiYouRen/CaoMeiYouRen#readme",
   "dependencies": {
+    "dayjs": "^1.11.12",
     "fs-extra": "^11.1.1",
     "rss-parser": "^3.13.0"
   }
