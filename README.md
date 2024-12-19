@@ -22,9 +22,6 @@
 
 -   **公众号**：[草梅友仁的后花园](https://cdn.jsdelivr.net/gh/CaoMeiYouRen/image-hosting-01@master/images/202310242101484.png) 关注我的公众号「草梅友仁的后花园」，获取最新技术资讯和文章。
 
-> 额外声明：GitCode 上的 [CaoMeiYouRen](https://gitcode.com/CaoMeiYouRen) 非本人账号！本人的开源项目均在 GitHub 下！注意认准地址！
->
-
 ## 最新博客
 
 <!-- BLOG_START -->
