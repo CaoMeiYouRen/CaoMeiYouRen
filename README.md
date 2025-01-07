@@ -10,7 +10,7 @@
 
 -   **GitHub**：[CaoMeiYouRen](https://github.com/CaoMeiYouRen) 在我的 GitHub 主页上有我开源的项目和代码示例。
 
--   **码云**：[草梅友仁](https://gitee.com/caomeiyouren) 在码云上，你可以找到我在国内的代码仓库。
+<!-- -   **码云**：[草梅友仁](https://gitee.com/caomeiyouren) 在码云上，你可以找到我在国内的代码仓库。 -->
 
 -   **掘金**：[草梅友仁](https://juejin.cn/user/3043088413495815) 在掘金社区，你可以阅读我的技术文章和分享。
 
@@ -20,7 +20,9 @@
 
 -   **爱发电**：[草梅友仁](https://afdian.com/a/CaoMeiYouRen) 可以通过爱发电平台支持我的创作。
 
--   **公众号**：[草梅友仁的后花园](https://cdn.jsdelivr.net/gh/CaoMeiYouRen/image-hosting-01@master/images/202310242101484.png) 关注我的公众号「草梅友仁的后花园」，获取最新技术资讯和文章。
+-   **公众号**：[草梅友仁的后花园](https://oss.cmyr.dev/images/20241025184516839-21n2ctv.png) 关注我的公众号「草梅友仁的后花园」，获取最新技术资讯和文章。
+
+-   **邮箱订阅**：[草梅友仁的博客订阅](https://listmonk.cmyr.dev/subscription/form) 可以通过邮箱订阅博客更新。
 
 ## 最新博客
 
