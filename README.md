@@ -32,8 +32,8 @@
 - [2024-11-17 2024 年第 47 周草梅周报：push-all-in-one 正式发布 4.0.0 版本重大更新](https://blog.cmyr.ltd/archives/2024-year-47th-week-caomei-weekly-push-all-in-one-4-0-0-major-update.html)
 <!-- BLOG_END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
 
-[![CaoMeiYouRen's github stats](https://github-readme-stats.vercel.app/api?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
+[![CaoMeiYouRen's github stats](https://gh-stats.cmyr.dev/api?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
 
-[![CaoMeiYouRen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
+[![CaoMeiYouRen's wakatime stats](https://gh-stats.cmyr.dev/api/wakatime?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
