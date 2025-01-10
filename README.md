@@ -22,7 +22,7 @@
 
 -   **公众号**：[草梅友仁的后花园](https://oss.cmyr.dev/images/20241025184516839-21n2ctv.png) 关注我的公众号「草梅友仁的后花园」，获取最新技术资讯和文章。
 
--   **邮箱订阅**：[草梅友仁的博客订阅](https://listmonk.cmyr.dev/subscription/form) 可以通过邮箱订阅博客更新。
+-   **邮箱订阅**：[草梅友仁的博客订阅](https://listmonk.cmyr.dev/subscription/form) 可以通过邮箱订阅我最新博客文章的更新。
 
 ## 最新博客
 
@@ -39,3 +39,5 @@
 [![CaoMeiYouRen's github stats](https://gh-stats.cmyr.dev/api?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
 
 [![CaoMeiYouRen's wakatime stats](https://gh-stats.cmyr.dev/api/wakatime?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
+
+[![草梅友仁的赞助者列表](https://oss.cmyr.dev/sponsorkit/sponsors.svg)](https://github.com/CaoMeiYouRen/cmyr-sponsor)
