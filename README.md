@@ -34,10 +34,10 @@
 - [2024-12-29 2024 年第 53 周草梅周报：2024 年度项目总结与展望](https://blog.cmyr.ltd/archives/2024-53-caomei-weekly-2024-project-summary-outlook.html)
 <!-- BLOG_END -->
 
-[![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
 
-[![CaoMeiYouRen's github stats](https://gh-stats.cmyr.dev/api?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
+[![CaoMeiYouRen's github stats](https://gh-stats.cmyr.dev/api?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
 
-[![CaoMeiYouRen's wakatime stats](https://gh-stats.cmyr.dev/api/wakatime?username=CaoMeiYouRen)](https://github.com/anuraghazra/github-readme-stats)
+[![CaoMeiYouRen's wakatime stats](https://gh-stats.cmyr.dev/api/wakatime?username=CaoMeiYouRen)](https://wakatime.com/@CaoMeiYouRen)
 
 [![草梅友仁的赞助者列表](https://oss.cmyr.dev/sponsorkit/sponsors.svg)](https://github.com/CaoMeiYouRen/cmyr-sponsor)
