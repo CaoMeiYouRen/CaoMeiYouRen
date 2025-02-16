@@ -27,11 +27,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2025-02-16 AI 笔记软件 NoteGen 与 GitHub 动态更新 | 2025 年第 7 周草梅周报](https://blog.cmyr.ltd/archives/2025-07-caomei-weekly-ai-note-gen-github-updates.html)
 - [2025-02-11 如何本地部署 DeepSeek-R1 并解决 NSFW 问题](https://blog.cmyr.ltd/archives/how-to-deploy-deep-seeker-r1-locally-and-solve-nsfw-issues.html)
 - [2025-02-09 【有剧透】观《哪吒之魔童闹海》有感](https://blog.cmyr.ltd/archives/f2feb5dc.html)
 - [2025-02-09 DeepSeek 加速 AGI 时代来临 | 2025 年第 6 周草梅周报](https://blog.cmyr.ltd/archives/2025-06-caomei-weekly-deep-seek-accelerates-the-advent-of-the-agi-era.html)
 - [2025-02-08 DeepSeek 使用指南：普通人与程序员如何高效利用 AI 大模型](https://blog.cmyr.ltd/archives/deepseek-guide-for-everyone-and-programmers.html)
-- [2025-01-26 AI 自动化与未来发展方向 | 2025 年第 4 周草梅周报](https://blog.cmyr.ltd/archives/2025-04-caomei-weekly-ai-automation-future-direction.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
