@@ -23,11 +23,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2025-05-18 afdian-linker 技术选型分享预告 | 2025 年第 20 周草梅周报](https://blog.cmyr.ltd/archives/2025-20-caomei-weekly-afdian-linker-github-updates.html)
+- [2025-05-17 记一次 2025 上海 UF 游戏音乐嘉年华体验](https://blog.cmyr.ltd/archives/9274e2a3.html)
 - [2025-05-11 afdian-linker 正式宣发 | 2025 年第 19 周草梅周报](https://blog.cmyr.ltd/archives/2025-19-caomei-weekly-afdian-linker-github-updates.html)
 - [2025-05-04 afdian-linker 正式发布 | 2025 年第 18 周草梅周报](https://blog.cmyr.ltd/archives/2025-18-caomei-weekly-ai-afdian-linker-github-stars.html)
 - [2025-04-26 记一次原神北京环球影视餐厅联动观后感](https://blog.cmyr.ltd/archives/6a553e6f.html)
-- [2025-04-20 MCP 协议与古茗排队事件解析 | 2025 年第 16 周草梅周报](https://blog.cmyr.ltd/archives/2025-16-caomei-weekly-mcp-protocol-guming-queue-analysis-.html)
-- [2025-04-13 AI 开发 afdian-linker 与 GitHub 加星仓库推荐 | 2025 年第 15 周草梅周报](https://blog.cmyr.ltd/archives/2025-15-caomei-weekly-ai-afdian-linker-github-stars.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
