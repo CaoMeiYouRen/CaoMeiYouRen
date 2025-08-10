@@ -15,12 +15,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
-
--   [2025-08-03 草梅 Auth 1.2.0 发布与最新动态 | 2025 年第 31 周草梅周报](https://blog.cmyr.ltd/archives/2025-31-caomei-weekly-auth-1-2-0-updates.html)
--   [2025-08-03 《浪浪山的小妖怪》观后感](https://blog.cmyr.ltd/archives/dacf6037.html)
--   [2025-07-27 草梅 Auth 1.1.0 发布与最新动态 | 2025 年第 30 周草梅周报](https://blog.cmyr.ltd/archives/2025-30-caomei-weekly-auth-1-1-0-updates.html)
--   [2025-07-20 草梅 Auth 1.0.0 发布与第三方登录接入指南 | 2025 年第 29 周草梅周报](https://blog.cmyr.ltd/archives/2025-29-caomei-weekly-auth-1-0-0-third-party-login.html)
--   [2025-07-20 《罗小黑战记 2》观后感](https://blog.cmyr.ltd/archives/f4ba4968.html)
+- [2025-08-10 草梅 Auth 1.3.0 发布与 GitHub 动态 | 2025 年第 32 周草梅周报](https://blog.cmyr.ltd/archives/2025-32-caomei-weekly-caomei-auth-1-3-0-github-updates.html)
+- [2025-08-09 记一次上海·小红书 RED LAND 开放世界冒险岛 观后感](https://blog.cmyr.ltd/archives/90e91c0d.html)
+- [2025-08-03 草梅 Auth 1.2.0 发布与最新动态 | 2025 年第 31 周草梅周报](https://blog.cmyr.ltd/archives/2025-31-caomei-weekly-auth-1-2-0-updates.html)
+- [2025-08-03 《浪浪山的小妖怪》观后感](https://blog.cmyr.ltd/archives/dacf6037.html)
+- [2025-07-27 草梅 Auth 1.1.0 发布与最新动态 | 2025 年第 30 周草梅周报](https://blog.cmyr.ltd/archives/2025-30-caomei-weekly-auth-1-1-0-updates.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
