@@ -15,11 +15,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2025-10-05 草梅 Auth 1.9.0 发布验证码组件 | 2025 年第 40 周草梅周报](https://blog.cmyr.ltd/archives/2025-40-caomei-weekly-caomei-auth-1-9-0-n8n-workflow.html)
 - [2025-09-21 草梅 Auth 1.8.0 发布暗色模式 | 2025 年第 38 周草梅周报](https://blog.cmyr.ltd/archives/2025-38-caomei-weekly-caomei-auth-1-8-0-dark-mode.html)
 - [2025-09-14 草梅 Auth 1.7.0 发布 Demo 模式 | 2025 年第 37 周草梅周报](https://blog.cmyr.ltd/archives/2025-37-caomei-weekly-caomei-auth-1-7-0-demo-mode.html)
 - [2025-09-07 草梅 Auth 1.6.0 发布密码强度组件 Twilio 短信支持 | 2025 年第 36 周草梅周报](https://blog.cmyr.ltd/archives/2025-36-caomei-weekly-caomei-auth-1-6-0-password-strength-twilio-sms-support.html)
 - [2025-08-31 草梅 Auth 1.5.0 发布与自动化发包经验 | 2025 年第 35 周草梅周报](https://blog.cmyr.ltd/archives/2025-35-caomei-weekly-caomei-auth-1-5-0-automated-release.html)
-- [2025-08-23 记一次《上海·2025 明日方舟集成战略沉浸式线下展》的体验](https://blog.cmyr.ltd/archives/16e853ab.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
