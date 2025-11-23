@@ -15,11 +15,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2025-11-23 Cloudflare 服务中断与 AI 图像生成模型 nano-banana-pro | 2025 年第 47 周草梅周报](https://blog.cmyr.ltd/archives/2025-47-caomei-weekly-cloudflare-outage-nano-banana-pro.html)
 - [2025-11-20 如何免费获取 Sora2 邀请码](https://blog.cmyr.ltd/archives/how-to-get-sora2-invitation-code-for-free.html)
 - [2025-11-16 代码重构与测试覆盖率提升实践 | 2025 年第 46 周草梅周报](https://blog.cmyr.ltd/archives/2025-46-caomei-weekly-code-refactoring-test-coverage.html)
 - [2025-11-09 草梅 Auth 1.11.0 发布与 GitHub 依赖安全更新 | 2025 年第 45 周草梅周报](https://blog.cmyr.ltd/archives/2025-45-caomei-weekly-caomei-auth-1-11-0-github-dependabot.html)
 - [2025-11-04 云服务器、域名、AI大模型等优惠合集 | 2025 年双十一](https://blog.cmyr.ltd/archives/2025-cloud-servers-ai-large-models-promotions.html)
-- [2025-11-02 RSS Impact 1.17.0 发布与 Docker 服务器迁移经验 | 2025 年第 44 周草梅周报](https://blog.cmyr.ltd/archives/2025-44-caomei-weekly-rss-impact-1-17-0-docker-migration.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
