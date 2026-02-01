@@ -16,11 +16,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2026-02-01 墨梅博客 1.3.0 发布与服务器数据备份教训 | 2026 年第 5 周草梅周报](https://blog.cmyr.ltd/archives/2026-05-caomei-weekly-momei-1-3-0-release-server-backup-lesson.html)
 - [2026-01-25 墨梅博客 1.2.0 发布与 AI 开发实践 | 2026 年第 4 周草梅周报](https://blog.cmyr.ltd/archives/2026-04-caomei-weekly-momei-1-2-0-release-ai-development.html)
 - [2026-01-19 记一次 上海·绝区零 2026 音乐会观后感](https://blog.cmyr.ltd/archives/shanghai-zenless-zone-zero-2026-music-concert-review.html)
 - [2026-01-11 墨梅博客 1.0.0 发布与更新 | 2026 年第 2 周草梅周报](https://blog.cmyr.ltd/archives/2026-02-caomei-weekly-momei-blog-1-0-release-update.html)
 - [2026-01-06 记一次 上海·原神 FES 2026 观后感](https://blog.cmyr.ltd/archives/shanghai-genshin-fes-2026-review.html)
-- [2026-01-01 草梅友仁的 2025 年度项目总结与展望](https://blog.cmyr.ltd/archives/2025-project-summary-outlook.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
