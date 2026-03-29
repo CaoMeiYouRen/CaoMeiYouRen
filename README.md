@@ -16,11 +16,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2026-03-29 墨梅博客 1.11.0 发布与数据库用量超支教训 | 2026 年第 13 周草梅周报](https://blog.cmyr.ltd/archives/2026-13-caomei-weekly-momei-1-11-0-release-database-quota-lesson.html)
 - [2026-03-22 墨梅博客 1.10.0 发布与 AI 编程工作流优化 | 2026 年第 12 周草梅周报](https://blog.cmyr.ltd/archives/2026-12-caomei-weekly-momei-1-10-0-release-ai-programming-workflow.html)
 - [2026-03-15 墨梅博客 1.9.0 发布与 LeanCloud 停服应对 | 2026 年第 11 周草梅周报](https://blog.cmyr.ltd/archives/2026-11-caomei-weekly-momei-1-9-0-release-leancloud-shutdown-response.html)
 - [2026-03-08 OpenClaw AI 助手实测与墨梅博客更新 | 2026 年第 10 周草梅周报](https://blog.cmyr.ltd/archives/2026-10-caomei-weekly-openclaw-ai-assistant-test-momei-blog-update.html)
 - [2026-03-01 墨梅博客 1.7.0 发布与 AI 开发实践 | 2026 年第 9 周草梅周报](https://blog.cmyr.ltd/archives/2026-09-caomei-weekly-momei-1-7-0-release-ai-development.html)
-- [2026-02-08 墨梅博客 1.4.0 发布与开源动态 | 2026 年第 6 周草梅周报](https://blog.cmyr.ltd/archives/2026-06-caomei-weekly-momei-1-4-0-release-open-source-updates.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
