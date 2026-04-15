@@ -16,12 +16,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
-
--   [2026-01-06 记一次 上海·原神 FES 2026 观后感](https://blog.cmyr.ltd/archives/shanghai-genshin-fes-2026-review.html)
--   [2026-01-01 草梅友仁的 2025 年度项目总结与展望](https://blog.cmyr.ltd/archives/2025-project-summary-outlook.html)
--   [2025-12-29 记一次 广州·绝区零 2025 FES 观后感](https://blog.cmyr.ltd/archives/c6226240.html)
--   [2025-12-21 墨梅博客 MVP 发布与草梅 Auth 更新 | 2025 年第 51 周草梅周报](https://blog.cmyr.ltd/archives/2025-51-caomei-weekly-momei-blog-mvp-caomei-auth-update.html)
--   [2025-12-14 草梅 Auth 1.12.0 发布与墨梅博客立项经验 | 2025 年第 50 周草梅周报](https://blog.cmyr.ltd/archives/2025-50-caomei-weekly-caomei-auth-1-12-0-momei-blog.html)
+- [2026-04-12 记一次 2026 北京环球影城原神联动羽球节互动主题区游玩体验](https://blog.cmyr.ltd/archives/2026-universal-studios-beijing-genshin.html)
+- [2026-03-29 墨梅博客 1.11.0 发布与数据库用量超支教训 | 2026 年第 13 周草梅周报](https://blog.cmyr.ltd/archives/2026-13-caomei-weekly-momei-1-11-0-release-database-quota-lesson.html)
+- [2026-03-22 墨梅博客 1.10.0 发布与 AI 编程工作流优化 | 2026 年第 12 周草梅周报](https://blog.cmyr.ltd/archives/2026-12-caomei-weekly-momei-1-10-0-release-ai-programming-workflow.html)
+- [2026-03-15 墨梅博客 1.9.0 发布与 LeanCloud 停服应对 | 2026 年第 11 周草梅周报](https://blog.cmyr.ltd/archives/2026-11-caomei-weekly-momei-1-9-0-release-leancloud-shutdown-response.html)
+- [2026-03-08 OpenClaw AI 助手实测与墨梅博客更新 | 2026 年第 10 周草梅周报](https://blog.cmyr.ltd/archives/2026-10-caomei-weekly-openclaw-ai-assistant-test-momei-blog-update.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
