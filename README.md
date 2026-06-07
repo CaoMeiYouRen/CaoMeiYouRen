@@ -16,11 +16,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2026-06-07 墨梅博客 1.19.0 发布与 Copilot 涨价替代方案 | 2026 年第 23 周草梅周报](https://blog.cmyr.ltd/archives/2026-23-caomei-weekly-momei-blog-1-19-0-release-copilot-price-increase-alternative.html)
 - [2026-05-31 AI 超级搜索与墨梅博客开源动态 | 2026 年第 22 周草梅周报](https://blog.cmyr.ltd/archives/2026-22-caomei-weekly-super-search-momei-open-source.html)
 - [2026-05-17 GitHub Copilot 涨价 37 倍与免费搜索 MCP | 2026 年第 21 周草梅周报](https://blog.cmyr.ltd/archives/2026-21-caomei-weekly-github-copilot-price-37x-free-search-mcp.html)
 - [2026-05-10 AI 编程限流 DeepSeek-V4 体验 墨梅博客 | 2026 年第 19 周草梅周报](https://blog.cmyr.ltd/archives/2026-19-caomei-weekly-ai-programming-throttling-deepseek-v4-experience.html)
 - [2026-05-09 记一次 2026 北京环球影城原神联动羽球节互动主题区二周目游玩体验](https://blog.cmyr.ltd/archives/2026-universal-studios-beijing-genshin-2.html)
-- [2026-04-19 AI 编程倦怠与墨梅博客 1.14.0 发布 | 2026 年第 16 周草梅周报](https://blog.cmyr.ltd/archives/2026-16-caomei-weekly-ai-programming-burnout-momei-1-14-0-release.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
