@@ -16,11 +16,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2026-07-05 墨梅博客 1.21.0 与 Hermes Agent 实践 | 2026 年第 27 周草梅周报](https://blog.cmyr.ltd/archives/2026-27-caomei-weekly-2026-27-weekly-momei-hermes-agent.html)
 - [2026-06-27 记一次基于 Hermes Agent 的 AI 助手自动化深度使用体验](https://blog.cmyr.ltd/archives/hermes-agent-docker-deployment-deepseek-v4-feishu.html)
 - [2026-06-22 记一次杭州·第二十二届中国国际动漫节的观后感](https://blog.cmyr.ltd/archives/2026-hangzhou-international-anime-festival-review.html)
 - [2026-06-14 Hermes Agent AI 助手与墨梅博客更新 | 2026 年第 24 周草梅周报](https://blog.cmyr.ltd/archives/2026-24-caomei-weekly-hermes-agent-momei-weekly.html)
 - [2026-06-07 墨梅博客 1.19.0 发布与 Copilot 涨价替代方案 | 2026 年第 23 周草梅周报](https://blog.cmyr.ltd/archives/2026-23-caomei-weekly-momei-blog-1-19-0-release-copilot-price-increase-alternative.html)
-- [2026-05-31 AI 超级搜索与墨梅博客开源动态 | 2026 年第 22 周草梅周报](https://blog.cmyr.ltd/archives/2026-22-caomei-weekly-super-search-momei-open-source.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
