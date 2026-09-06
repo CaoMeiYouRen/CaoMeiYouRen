@@ -16,11 +16,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2026-08-29 记一次动画电影《牛来》观后感](https://blog.cmyr.ltd/archives/niulai-animation-movie-review.html)
 - [2026-08-16 记一次上海·2026 鹰角嘉年华和 2026 ChinaJoy 观后感](https://blog.cmyr.ltd/archives/2026-hypergryph-carnival-chinajoy-experience.html)
 - [2026-07-14 记一次上海·BILIBILI MACRO LINK-PLAY! 2026 观后感和台风巴威吐槽](https://blog.cmyr.ltd/archives/2026-bml-play-review-typhoon-bavi.html)
 - [2026-07-05 墨梅博客 1.21.0 与 Hermes Agent 实践 | 2026 年第 27 周草梅周报](https://blog.cmyr.ltd/archives/2026-27-caomei-weekly-2026-27-weekly-momei-hermes-agent.html)
 - [2026-06-27 记一次基于 Hermes Agent 的 AI 助手自动化深度使用体验](https://blog.cmyr.ltd/archives/hermes-agent-docker-deployment-deepseek-v4-feishu.html)
-- [2026-06-22 记一次杭州·第二十二届中国国际动漫节的观后感](https://blog.cmyr.ltd/archives/2026-hangzhou-international-anime-festival-review.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
